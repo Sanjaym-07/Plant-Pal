@@ -1,0 +1,8 @@
+{
+  "name": "PlantPal - Smart Crop Manager",
+  "description": "An intelligent web application that helps gardeners and farmers plan, visualize, and optimize crop production. It features AI-powered crop recommendations with generated imagery, environmental visualization, pest detection, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "serial"
+  ]
+}
